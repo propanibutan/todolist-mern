@@ -89,7 +89,7 @@ I used [![Postman][Postman]][Postman-url] to test my database. To create an acce
 
 ### Built With
 | BACKEND | FRONTEND |
-| :- | :- |
+| :-: | :-: |
 |[![MongoDB][MongoDB]][Mongodb-url] |[![React][React.js]][React-url]
 [![Express][Express]][Express-url] |[![Vite][Vite]][Vite-url]
 [![Node][Node.js]][Node-url] |[![Sass][Sass]][Sass-url]
