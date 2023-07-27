@@ -88,10 +88,9 @@ I used [![Postman][Postman]][Postman-url] to test my database. To create an acce
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-| | |
+| FRONTEND|BACKEND |
 | :- | :- |
-|BACKEND| [![MongoDB][MongoDB]][Mongodb-url] [![Express][Express]][Express-url] [![Node][Node.js]][Node-url] [![Mongoose][Mongoose.js]][Mongoose-url] [![Dotenv][Dotenv]][Dotenv-url] [![JWT][JWT]][JWT-url] [![Nodemon][Nodemon]][Nodemon-url]|
-|FRONTEND| [![React][React.js]][React-url] [![Vite][Vite]][Vite-url] [![Sass][Sass]][Sass-url] [![MUI][MUI]][MUI-url] [![ReactQuery][ReactQuery]][ReactQuery-url] [![ReactRouter][ReactRouter]][ReactRouter-url]|
+|[![MongoDB][MongoDB]][Mongodb-url][![Express][Express]][Express-url] [![Node][Node.js]][Node-url] [![Mongoose][Mongoose.js]][Mongoose-url] [![Dotenv][Dotenv]][Dotenv-url] [![JWT][JWT]][JWT-url] [![Nodemon][Nodemon]][Nodemon-url]| [![React][React.js]][React-url] [![Vite][Vite]][Vite-url] [![Sass][Sass]][Sass-url] [![MUI][MUI]][MUI-url] [![ReactQuery][ReactQuery]][ReactQuery-url] [![ReactRouter][ReactRouter]][ReactRouter-url]|
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
