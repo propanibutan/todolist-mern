@@ -151,17 +151,17 @@ This is an example of how to list things you need to use the software and how to
 ## Roadmap
 
 - [X] Basic configuration
-- [ ] API 
+- [X] API 
     - [X] Setup
-    - [ ] Routing
-    - [ ] Models
+    - [X] Routing
+    - [X] Models
 - [ ] Authentication
-    - [ ] Login
+    - [X] Login
     - [ ] Registration
     - [ ] Logout
 - [ ] Application page
-    - [ ] Vite Setup
-    - [ ] Fetching
+    - [X] Vite Setup
+    - [X] Fetching
     - [ ] Todos Frontend
     - [ ] Todos Logic
     - [ ] Login Frontend
