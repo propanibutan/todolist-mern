@@ -30,7 +30,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">MERN Stack To Do List</h3>
+<h3 align="center">TaskFlow - MERN Stack To Do List</h3>
 
   <p align="center">
     The application allows the user to add and delete tasks.
