@@ -162,7 +162,8 @@ This is an example of how to list things you need to use the software and how to
 - [ ] Application page
     - [X] Vite Setup
     - [X] Fetching
-    - [ ] Todos Frontend
+    - [ ] Todos Frontend for non-login users
+    - [ ] Todos Frontend for login users
     - [ ] Todos Logic
     - [ ] Login Frontend
 
